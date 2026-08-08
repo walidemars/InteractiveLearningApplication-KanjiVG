@@ -1,0 +1,20 @@
+KanjiVG Attribution Notice
+
+The SVG graphics in this repository are derived from the KanjiVG project.
+
+Original work:
+KanjiVG
+Copyright © Ulrich Apel
+
+Source:
+https://github.com/KanjiVG/kanjivg
+
+License:
+Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+
+https://creativecommons.org/licenses/by-sa/3.0/
+
+Modifications:
+The original SVG files have been modified by removing unnecessary stroke data and adapting the files for use in the InteractiveLearningApplication Android application.
+
+The modified SVG graphics are distributed under the terms of the CC BY-SA 3.0 license.
